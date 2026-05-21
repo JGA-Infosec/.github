@@ -5,9 +5,9 @@
 ---
 
 ### 📂 Research Focus
-* [cite_start]**Application Security:** Methodical evaluation of web application logic against standard vulnerability frameworks (OWASP Top 10)[cite: 9, 27].
-* [cite_start]**Automation & Tools:** Constructing deterministic scripting workflows to eliminate repetitive task cycles during asset mapping[cite: 29, 30].
-* [cite_start]**Network Mapping:** Systematic discovery and footprinting of network perimeters and data vectors[cite: 11, 30].
+* **Application Security:** Methodical evaluation of web application logic against standard vulnerability frameworks (OWASP Top 10).
+* **Automation & Tools:** Constructing deterministic scripting workflows to eliminate repetitive task cycles during asset mapping.
+* **Network Mapping:** Systematic discovery and footprinting of network perimeters and data vectors.
 
 ### 🛠️ Core Toolstack & Technical Competencies
 
@@ -17,8 +17,10 @@ Languages         ::  Bash Scripting / Python / JavaScript / HTML5 / CSS
 Interception      ::  Burp Suite Pro / OWASP ZAP
 Enumeration       ::  Nmap / Gobuster / Ffuf
 Exploitation Work ::  Sqlmap / Metasploit Framework
+```
+
 ### 📊 Toolkit Visualization
-[![My Skills](https://skillicons.dev/icons?i=bash,python,js,linux,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,js,linux,html,css,git)](https://skillicons.dev)
 
 ---
-下滑 ── *Focused on understanding how complex systems are built, so they can be securely engineered.*
+*Focused on understanding how complex systems are built, so they can be securely engineered.*
