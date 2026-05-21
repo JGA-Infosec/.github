@@ -1,51 +1,33 @@
-# ── JGA-INFOSEC LABS ──────────────────────────────────────────
-> **Application Security & Creative Computing**
-> *Deconstructing complex web systems through methodical verification, custom scripting, and architectural analysis.*
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=407849&center=true&vCenter=true&width=800&lines=Systems+Analysis+%26+Application+Security+Lab;Methodical+Verification.+Custom+Scripting.;Approaching+Security+Through+Creative+Computing." alt="Animated Header" />
+</div>
 
 ---
 
-### ⚡ INTERACTIVE APPLICATION NODES
-*Click on a node below to expand the laboratory directory.*
+### 📂 Research Focus
+* **Application Security:** Methodical evaluation of web application logic against standard vulnerability frameworks (OWASP Top 10).
+* **Automation & Tools:** Constructing deterministic scripting workflows to eliminate repetitive task cycles during asset mapping.
+* **Network Mapping:** Systematic discovery and footprinting of network perimeters and data vectors.
 
-<details>
-<summary><b>▶ NODE_01 // RESEARCH MANIFESTO</b></summary>
-<br>
-<p>Approaching digital security from a creative engineering angle. Focused on breaking down complex software systems to fundamentally understand their design, mapping technical data flaws back to secure engineering solutions.</p>
-</details>
+### 🛠️ Core Toolstack & Technical Competencies
 
-<details>
-<summary><b>▶ NODE_02 // OPERATIONAL VECTORS</b></summary>
-<br>
-<ul>
-  <li><b>Web Application Security:</b> Systematic logic testing and assessment against standard vulnerability frameworks (OWASP Top 10).</li>
-  <li><b>Automated Enumeration:</b> Writing custom Bash scripts to chain discovery utilities and map out attack surfaces efficiently.</li>
-  <li><b>Risk Assessment:</b> Evaluating enterprise-level security postures and technical controls against operational compliance objectives.</li>
-</ul>
-</details>
+```text
+Distro Platforms  ::  Linux (Parrot OS / Kali)
+Languages         ::  Bash Scripting / Python / JavaScript / HTML5 / CSS
+Interception      ::  Burp Suite Pro / OWASP ZAP
+Enumeration       ::  Nmap / Gobuster / Ffuf
+Exploitation Work ::  Sqlmap / Metasploit Framework
+```
 
-<details>
-<summary><b>▶ NODE_03 // CORE ENGINE STACK</b></summary>
-<br>
-
-| Layer | Utilities Deployed |
-| :--- | :--- |
-| **Interception & Analysis** | `Burp Suite Pro` / `OWASP ZAP` |
-| **Directory & Parameter Fuzzing** | `Ffuf` / `Gobuster` |
-| **Network Footprinting** | `Nmap` / `Rustscan` |
-| **Database Vulnerability Verification** | `Sqlmap` |
-| **Exploitation Frameworks** | `Metasploit Framework` |
-| **Scripting & Logic** | `Bash` / `Python` / `JavaScript` / `HTML5` / `CSS` |
-
-</details>
-
----
-
-### 🌐 COMPONENT VISUALIZATION
-
+### 📊 Component Visualization
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,js,linux,html,css,git&theme=dark" alt="Static Skill Matrix" />
-  </a>
+  <img src="https://img.shields.io/badge/Bash-252B27?style=for-the-badge&logo=gnu-bash&logoColor=407849" />
+  <img src="https://img.shields.io/badge/Python-252B27?style=for-the-badge&logo=python&logoColor=407849" />
+  <img src="https://img.shields.io/badge/JavaScript-252B27?style=for-the-badge&logo=javascript&logoColor=407849" />
+  <img src="https://img.shields.io/badge/HTML5-252B27?style=for-the-badge&logo=html5&logoColor=407849" />
+  <img src="https://img.shields.io/badge/CSS3-252B27?style=for-the-badge&logo=css3&logoColor=407849" />
+  <img src="https://img.shields.io/badge/Linux-252B27?style=for-the-badge&logo=linux&logoColor=407849" />
+  <img src="https://img.shields.io/badge/Kali-252B27?style=for-the-badge&logo=kali-linux&logoColor=407849" />
 </p>
 
 ---
