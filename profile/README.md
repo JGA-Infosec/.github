@@ -1,9 +1,24 @@
-# ⚡ JGA-Infosec Labs
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=00FF00&lines=Initializing+Security+Lab...;Focus:+Cloud+OSINT+%26+Automation)
-
-### 🛠️ Core Toolkit
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,aws,azure)](https://skillicons.dev)
+# ── JGA-INFOSEC ───────────────────────────────────────────────
+> **Systems Analysis & Application Security Lab**
+> *Approaching security through the lens of creative computing, structural deconstruction, and methodical enumeration.*
 
 ---
-*Automated open-source workflows for rapid cloud reconnaissance.*
+
+### 📂 Research Focus
+* [cite_start]**Application Security:** Methodical evaluation of web application logic against standard vulnerability frameworks (OWASP Top 10)[cite: 9, 27].
+* [cite_start]**Automation & Tools:** Constructing deterministic scripting workflows to eliminate repetitive task cycles during asset mapping[cite: 29, 30].
+* [cite_start]**Network Mapping:** Systematic discovery and footprinting of network perimeters and data vectors[cite: 11, 30].
+
+### 🛠️ Core Toolstack & Technical Competencies
+
+```text
+Distro Platforms  ::  Linux (Parrot OS / Kali)
+Languages         ::  Bash Scripting / Python / JavaScript / HTML5 / CSS
+Interception      ::  Burp Suite Pro / OWASP ZAP
+Enumeration       ::  Nmap / Gobuster / Ffuf
+Exploitation Work ::  Sqlmap / Metasploit Framework
+### 📊 Toolkit Visualization
+[![My Skills](https://skillicons.dev/icons?i=bash,python,js,linux,html,css)](https://skillicons.dev)
+
+---
+下滑 ── *Focused on understanding how complex systems are built, so they can be securely engineered.*
