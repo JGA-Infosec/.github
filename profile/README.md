@@ -36,7 +36,7 @@ This space is dedicated to tracking my journey in cybersecurity. This is where I
 
 ```text
 
-Operating Systems :: Linux (Parrot OS / Kali)
+Operating Systems :: Linux (Ubuntu / Parrot OS / Kali)
 
 Programming       :: Bash / Python / JavaScript / HTML5 / CSS
 
