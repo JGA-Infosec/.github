@@ -36,17 +36,19 @@ This space is dedicated to tracking my journey in cybersecurity. This is where I
 
 ```text
 
-Operating Systems :: Linux (Ubuntu / Parrot OS / Kali)
+Security Operations :: Wazuh SIEM / Log Analysis / MITRE ATT&CK / Incident Triage
 
-Programming       :: Bash / Python / JavaScript / HTML5 / CSS
+Operating Systems   :: Linux (Ubuntu / Parrot OS) / Windows
 
-Interception      :: Burp Suite / OWASP ZAP
+Programming         :: Python / Bash / JavaScript
+Network Defense     :: Traffic Analysis / Wireshark / Host-Based Firewalls (UFW)
 
-Recon & Discovery :: Nmap / Rustscan / Subfinder / udpx / Gobuster / Ffuf
+Data Security       :: Cryptographic Hashing (SHA256) / Public-Key Cryptography (GnuPG) 
 
-Exploitation      :: Sqlmap / Metasploit Framework
+Offensive Security  :: Burp Suite / Nmap / SQLmap / Metasploit / Ffuf
 
 ```
+![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnupg&logoColor=white)
 
 
 
@@ -70,7 +72,15 @@ Exploitation      :: Sqlmap / Metasploit Framework
 
 </p>
 
+### Featured Projects
 
+**🛡️ [Enterprise SIEM & SOC Telemetry Lab](https://github.com/JGA-Infosec/SIEM-Wazuh-Lab)** 
+> *Blue Team / Threat Detection*
+> Architected a multi-node Wazuh environment to ingest Linux system logs and firewall drops. Simulated network reconnaissance and T1110 brute-force attacks to map active threat telemetry and practice incident triage.
+
+**⚔️ [AI Security Flaws in Financial Code](link-to-your-repo)**
+> *Security Research / Vulnerability Assessment*
+> Conducted a 30-trial evaluation of LLM-generated code using a Test-Driven Security Evaluation (TDSE) framework, specifically isolating "silent failures" and rounding errors applicable to enterprise financial environments.
 
 ---
 
