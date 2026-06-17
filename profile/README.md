@@ -78,6 +78,10 @@ Offensive Security  :: Burp Suite / Nmap / SQLmap / Metasploit / Ffuf
 > *Blue Team / Threat Detection*
 > Architected a multi-node Wazuh environment to ingest Linux system logs and firewall drops. Simulated network reconnaissance and T1110 brute-force attacks to map active threat telemetry and practice incident triage.
 
+**🎓 [Enterprise Cybersecurity Internship Capstone](https://github.com/John-Gabriel20/security-internship-capstone)**
+> *Enterprise Security / Architecture & Risk Mitigation*
+> Developed and executed a comprehensive capstone project culminating a practical security internship. Focused on designing and deploying defensive architectures, implementing risk mitigation strategies, and building hands-on solutions to solve real-world enterprise infrastructure vulnerabilities.
+
 **[AI Security Flaws in Financial Code](https://github.com/JGA-Infosec/GPT5-Financial-Logic-Analysis)**
 > *Security Research / Vulnerability Assessment*
 > Conducted a 30-trial evaluation of LLM-generated code using a Test-Driven Security Evaluation (TDSE) framework, specifically isolating "silent failures" and rounding errors applicable to enterprise financial environments.
