@@ -15,18 +15,17 @@
 This space is dedicated to tracking my journey in cybersecurity. This is where I showcase the custom labs I build, the security projects I am actively working on, and the hands-on coursework I am completing to grow my skills. 
 
 
-
 ### Current Focus Areas
 
-* **Web Application Security:** Systematic mapping and testing of web applications based on the latest OWASP top 10.
-
-* **Custom Automation:** Writing Bash and Python scripts to automate repetitive tasks and streamline the enumeration process.
-
-* **Network & Systems Testing:** Exploring how networks are built, how they communicate, and learning ways to secure them.
-
-* **Self-Studies/Course Works :** Documenting lessons I've learned, what confused me, what I understood in a theory based study session.
-
-* **Labs/CTFs:** Documentation and write-ups of my hands-on lab works from hack the box course materials, CTF challenges, and other hands-on study materials.
+*   **Threat Detection & Log Ingestion:** Architecting multi-node SIEM environments (Wazuh) to monitor target systems. Focused on building log ingestion pipelines, configuring host-based firewall rules (UFW), parsing telemetry, and mapping security events to the MITRE ATT&CK framework.
+  
+*   **AI Security & Financial Risk Analysis:** Investigating the security posture and potential logic flaws of LLM-generated code within financial contexts. Conducted active evaluation sessions to document "silent failures" and rounding errors that pose operational risks to enterprise applications.
+  
+*   **Data Integrity & Cryptography:** Hands-on application of cryptographic principles to ensure confidentiality and data authenticity. Experienced in utilizing GnuPG (GPG) for asymmetric key pairs, managing detached digital signatures, and calculating SHA256/MD5 cryptographic hashes for file verification.
+  
+*   **Web Application Security & OWASP Top 10:** Systematic mapping, analysis, and vulnerability assessment of web applications. Exploring both offensive exploit vectors and defensive mitigations to securely engineer complex systems.
+  
+*   **Adversary Emulation & Hands-on Labs:** Actively developing write-ups and threat-hunting methodologies based on Hack The Box environments, PortSwigger Academy materials, and Capture The Flag (CTF) defensive challenges.
 
 
 
