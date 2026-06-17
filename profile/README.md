@@ -74,11 +74,11 @@ Offensive Security  :: Burp Suite / Nmap / SQLmap / Metasploit / Ffuf
 
 ### Featured Projects
 
-**🛡️ [Enterprise SIEM & SOC Telemetry Lab](https://github.com/JGA-Infosec/SIEM-Wazuh-Lab)** 
+**[Enterprise SIEM & SOC Telemetry Lab](https://github.com/JGA-Infosec/SIEM-Wazuh-Lab)** 
 > *Blue Team / Threat Detection*
 > Architected a multi-node Wazuh environment to ingest Linux system logs and firewall drops. Simulated network reconnaissance and T1110 brute-force attacks to map active threat telemetry and practice incident triage.
 
-**⚔️ [AI Security Flaws in Financial Code](link-to-your-repo)**
+**[AI Security Flaws in Financial Code](https://github.com/JGA-Infosec/GPT5-Financial-Logic-Analysis)**
 > *Security Research / Vulnerability Assessment*
 > Conducted a 30-trial evaluation of LLM-generated code using a Test-Driven Security Evaluation (TDSE) framework, specifically isolating "silent failures" and rounding errors applicable to enterprise financial environments.
 
