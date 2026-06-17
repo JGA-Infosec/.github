@@ -60,7 +60,7 @@ Offensive Security  :: Burp Suite / Nmap / SQLmap / Metasploit / Ffuf
 
   <img src="https://img.shields.io/badge/JavaScript-252B27?style=for-the-badge&logo=javascript&logoColor=407849" />
 
-  <img src="https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnupg&logoColor=407849" />
+  <img src="https://img.shields.io/badge/GnuPG-252B27?style=for-the-badge&logo=gnupg&logoColor=407849" />
   
   <img src="https://img.shields.io/badge/HTML5-252B27?style=for-the-badge&logo=html5&logoColor=407849" />
 
