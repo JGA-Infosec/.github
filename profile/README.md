@@ -33,14 +33,12 @@ This space is dedicated to tracking my journey in cybersecurity. This is where I
 
 ```text
 
-Security Operations :: Wazuh SIEM / Log Analysis / MITRE ATT&CK / Incident Triage
+Security Operations :: Wazuh SIEM / Currently learning Microsoft Sentinel SIEM / Log Analysis / MITRE ATT&CK / Incident Triage / 
 
 Operating Systems   :: Linux (Ubuntu / Parrot OS) / Windows
 
 Programming         :: Python / Bash / JavaScript
 Network Defense     :: Traffic Analysis / Wireshark / Host-Based Firewalls (UFW)
-
-Data Security       :: Cryptographic Hashing (SHA256) / Public-Key Cryptography (GnuPG) 
 
 Offensive Security  :: Burp Suite / Nmap / SQLmap / Metasploit / Ffuf
 
