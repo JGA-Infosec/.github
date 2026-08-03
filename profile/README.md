@@ -21,8 +21,6 @@ This space is dedicated to tracking my journey in cybersecurity. This is where I
   
 *   **AI Security & Financial Risk Analysis:** Investigating the security posture and potential logic flaws of LLM-generated code within financial contexts. Conducted active evaluation sessions to document "silent failures" and rounding errors that pose operational risks to enterprise applications.
   
-*   **Data Integrity & Cryptography:** Hands-on application of cryptographic principles to ensure confidentiality and data authenticity. Experienced in utilizing GnuPG (GPG) for asymmetric key pairs, managing detached digital signatures, and calculating SHA256/MD5 cryptographic hashes for file verification.
-  
 *   **Web Application Security & OWASP Top 10:** Systematic mapping, analysis, and vulnerability assessment of web applications. Exploring both offensive exploit vectors and defensive mitigations to securely engineer complex systems.
   
 *   **Adversary Emulation & Hands-on Labs:** Actively developing write-ups and threat-hunting methodologies based on Hack The Box environments, PortSwigger Academy materials, and Capture The Flag (CTF) defensive challenges.
