@@ -78,7 +78,7 @@ Offensive Security  :: Burp Suite / Nmap / SQLmap / Metasploit / Ffuf
 > *Blue Team / Incident Triage & Log Analysis*
 > Investigated live simulated security alerts within the LetsDefend platform. Analyzed Windows Event Logs and network telemetry to triage privilege escalation and MFA bypass attempts, documenting definitive incident verdicts based on manual log analysis.
 
-**[Enterprise Cybersecurity Internship Capstone](https://github.com/John-Gabriel20/security-internship-capstone)**
+**[Enterprise Cybersecurity Internship Capstone](https://github.com/JGA-Infosec/security-internship-capstone)** 
 > *Enterprise Security / Architecture & Risk Mitigation*
 > Developed and executed a comprehensive capstone project culminating a practical security internship. Focused on designing and deploying defensive architectures, implementing risk mitigation strategies, and building hands-on solutions to solve real-world enterprise infrastructure vulnerabilities.
 
